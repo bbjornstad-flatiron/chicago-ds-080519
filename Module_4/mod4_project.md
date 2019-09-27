@@ -33,8 +33,8 @@ For example, if you were given a data set of housing price data for a given city
 ## Requirements:
 ### Regression
 
-- All the variables should have continous values
-- Minimum observations should be 500
+- Target variable should be continous values
+- Minimum observations - 500
 
 ### Time series 
 - Refer to learn.co section - Module 4 Final Project 
@@ -121,8 +121,8 @@ Your presentation should:
  - dataset should be finalized and explored
  - Should have "first stinky model"
 - Tuesday afternoon feedback from staff
-- Wednesday afternoon presentations and science fair. Code and feature freeze.
-- Friday - 30 minute code reviews with staff
+- Thursday afternoon presentations and science fair. Code and feature freeze.
+- Wednesday 30 minute code reviews with staff
  - Will have rubric (will release in advance)
  - Will ask to run linters on code.
  - Will ask to live code. 
